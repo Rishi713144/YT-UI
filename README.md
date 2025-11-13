@@ -1,2 +1,2 @@
-# YT-UI
-Test-Project
+# Test Project
+Learning Tailwind CSS through projects
