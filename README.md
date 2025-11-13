@@ -1,2 +1,2 @@
 # Test Project
-Learning Tailwind CSS through projects
+It's not perfect, it's not even close to “good” yet.
